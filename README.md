@@ -58,18 +58,17 @@ spicetify apply
 ```
 
 ## Screenshots
-
 * Aero
-![wmpvis_aero](wmpvis/screenshots/wmpvis_aero.png)
+![wmpvis_aero](https://raw.githubusercontent.com/Ingan121/WMPotify/master/screenshots/wmpvis_aero.png)
 
 * Basic
-![wmpvis_basic](wmpvis/screenshots/wmpvis_basic.png)
+![wmpvis_basic](https://raw.githubusercontent.com/Ingan121/WMPotify/master/screenshots/wmpvis_basic.png)
 
 * XP
-![wmpvis_xp](wmpvis/screenshots/wmpvis_xp.png)
+![wmpvis_xp](https://raw.githubusercontent.com/Ingan121/WMPotify/master/screenshots/wmpvis_xp.png)
 
 * Menu
-![wmpvis_menu](wmpvis/screenshots/wmpvis_menu_xp.png)
+![wmpvis_menu](https://raw.githubusercontent.com/Ingan121/WMPotify/master/screenshots/wmpvis_menu_xp.png)
 
 * Bars Visualization
-![wmpvis_bars](wmpvis/screenshots/wmpvis_bars_xp.png)
+![wmpvis_bars](https://raw.githubusercontent.com/Ingan121/WMPotify/master/screenshots/wmpvis_bars_xp.png)
