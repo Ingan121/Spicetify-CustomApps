@@ -56,3 +56,20 @@ curl -fsSL https://raw.githubusercontent.com/Ingan121/WMPotify/master/installer/
 spicetify config custom_apps wmpvis-
 spicetify apply
 ```
+
+## Screenshots
+
+* Aero
+![wmpvis_aero](wmpvis/screenshots/wmpvis_aero.png)
+
+* Basic
+![wmpvis_basic](wmpvis/screenshots/wmpvis_basic.png)
+
+* XP
+![wmpvis_xp](wmpvis/screenshots/wmpvis_xp.png)
+
+* Menu
+![wmpvis_menu](wmpvis/screenshots/wmpvis_menu_xp.png)
+
+* Bars Visualization
+![wmpvis_bars](wmpvis/screenshots/wmpvis_bars_xp.png)
