@@ -1,0 +1,9 @@
+[
+    {
+        "name": "WMPotify NowPlaying",
+        "description": "WMP-like visualization screen (bars, MilkDrop, etc.) + overlaid lyrics",
+        "preview": "https://raw.githubusercontent.com/Ingan121/WMPotify/refs/heads/master/screenshots/wmpvis_aero_3.png",
+        "readme": "https://raw.githubusercontent.com/Ingan121/WMPotify/refs/heads/master/README.md",
+        "tags": ["visualizer", "lyrics"]
+    }
+]
