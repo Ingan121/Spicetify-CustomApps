@@ -72,3 +72,6 @@ spicetify apply
 
 * Bars Visualization
 ![wmpvis_bars](https://raw.githubusercontent.com/Ingan121/WMPotify/master/screenshots/wmpvis_bars_xp.png)
+
+* Options
+![wmpvis_options](https://raw.githubusercontent.com/Ingan121/WMPotify/master/screenshots/wmpvis_options.png)
